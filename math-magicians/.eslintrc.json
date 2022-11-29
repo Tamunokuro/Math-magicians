@@ -9,7 +9,11 @@
       "ecmaFeatures": {
         "jsx": true
       },
-      "requireConfigFile": false,
+      "settings": {
+        "react": {
+            "version": "detect"
+        }
+    },
       "ecmaVersion": 2018,
       "sourceType": "module"
     },
