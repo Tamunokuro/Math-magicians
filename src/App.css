@@ -6,24 +6,25 @@
 
 .calculator-section {
   display: flex;
-  justify-content: flex-end;
-  padding-top: 18rem;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
 }
 
 .calculator {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  flex-wrap: wrap;
-  gap: 10px;
-  width: 50vw;
+  grid-template-columns: 1fr;
 }
 
 .numbers {
   font-size: 1.2rem;
-  font-weight: 900;
-  border-radius: 10px;
   cursor: pointer;
   background-color: #fff;
+}
+
+.span-zero {
+  grid-column: span 2;
+  width: 273px;
 }
 
 .numbers:hover {
@@ -31,11 +32,11 @@
 }
 
 .operators {
+  display: grid;
   background-color: #ffa500;
+  align-items: center;
   font-size: 1.2rem;
-  font-weight: 900;
   cursor: pointer;
-  border-radius: 10px;
 }
 
 .operators:hover {
@@ -48,16 +49,16 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  height: 50px;
+  height: 70px;
   grid-column-start: 1;
   grid-column-end: 5;
   color: #fff;
   padding: 5px;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 900;
 }
 
 button {
-  width: 90px;
-  height: 50px;
+  width: 10vw;
+  height: 100px;
 }

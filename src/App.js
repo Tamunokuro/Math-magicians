@@ -1,9 +1,13 @@
-import './App.css';
+import { Component } from 'react';
+import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div className="App" />
-  );
+// eslint-disable-next-line react/prefer-stateless-function
+class App extends Component {
+  render() {
+    return (
+      <Calculator />
+    );
+  }
 }
 
 export default App;
