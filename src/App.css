@@ -46,16 +46,15 @@
 
 .results {
   background-color: #808080;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   justify-content: flex-end;
   align-items: center;
-  height: 70px;
+  height: 80px;
   width: 40vw;
   grid-column-start: 1;
   grid-column-end: 5;
   color: #fff;
-  padding: 5px;
+  padding: 10px;
   font-size: 2.5rem;
   font-weight: 900;
 }
