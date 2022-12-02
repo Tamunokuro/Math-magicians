@@ -50,7 +50,7 @@
   flex-wrap: wrap;
   justify-content: flex-end;
   align-items: center;
-  height: 70px;
+  height: 100px;
   width: 40vw;
   grid-column-start: 1;
   grid-column-end: 5;
