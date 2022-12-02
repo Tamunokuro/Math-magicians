@@ -47,9 +47,11 @@
 .results {
   background-color: #808080;
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
   align-items: center;
   height: 70px;
+  width: 40vw;
   grid-column-start: 1;
   grid-column-end: 5;
   color: #fff;
