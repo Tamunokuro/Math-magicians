@@ -29,140 +29,139 @@ Object {
               >
                 <span
                   class="results"
+                  data-testid="screen"
                 >
                   0
-                   
-                   
                 </span>
                 <button
                   class="numbers"
-                  name="AC"
+                  data-testid="AC"
                   type="button"
                 >
                   AC
                 </button>
                 <button
                   class="numbers"
-                  name="+/-"
+                  data-testid="+/-"
                   type="button"
                 >
                   +/-
                 </button>
                 <button
                   class="numbers"
-                  name="%"
+                  data-testid="%"
                   type="button"
                 >
                   %
                 </button>
                 <button
                   class="operators"
-                  name="÷"
+                  data-testid="÷"
                   type="button"
                 >
                   ÷
                 </button>
                 <button
                   class="numbers"
-                  name="7"
+                  data-testid="7"
                   type="button"
                 >
                   7
                 </button>
                 <button
                   class="numbers"
-                  name="8"
+                  data-testid="8"
                   type="button"
                 >
                   8
                 </button>
                 <button
                   class="numbers"
-                  name="9"
+                  data-testid="9"
                   type="button"
                 >
                   9
                 </button>
                 <button
                   class="operators"
-                  name="x"
+                  data-testid="x"
                   type="button"
                 >
                   x
                 </button>
                 <button
                   class="numbers"
-                  name="4"
+                  data-testid="4"
                   type="button"
                 >
                   4
                 </button>
                 <button
                   class="numbers"
-                  name="5"
+                  data-testid="5"
                   type="button"
                 >
                   5
                 </button>
                 <button
                   class="numbers"
-                  name="6"
+                  data-testid="6"
                   type="button"
                 >
                   6
                 </button>
                 <button
                   class="operators"
-                  name="-"
+                  data-testid="-"
                   type="button"
                 >
                   -
                 </button>
                 <button
                   class="numbers"
-                  name="1"
+                  data-testid="1"
                   type="button"
                 >
                   1
                 </button>
                 <button
                   class="numbers"
-                  name="2"
+                  data-testid="2"
                   type="button"
                 >
                   2
                 </button>
                 <button
                   class="numbers"
-                  name="3"
+                  data-testid="3"
                   type="button"
                 >
                   3
                 </button>
                 <button
                   class="operators"
-                  name="+"
+                  data-testid="+"
                   type="button"
                 >
                   +
                 </button>
                 <button
                   class="numbers span-zero"
-                  name="0"
+                  data-testid="0"
                   type="button"
                 >
                   0
                 </button>
                 <button
                   class="numbers"
-                  name="."
+                  data-testid="."
                   type="button"
                 >
                   .
                 </button>
                 <button
                   class="operators"
-                  name="="
+                  data-testid="="
                   type="button"
                 >
                   =
@@ -199,140 +198,139 @@ Object {
             >
               <span
                 class="results"
+                data-testid="screen"
               >
                 0
-                 
-                 
               </span>
               <button
                 class="numbers"
-                name="AC"
+                data-testid="AC"
                 type="button"
               >
                 AC
               </button>
               <button
                 class="numbers"
-                name="+/-"
+                data-testid="+/-"
                 type="button"
               >
                 +/-
               </button>
               <button
                 class="numbers"
-                name="%"
+                data-testid="%"
                 type="button"
               >
                 %
               </button>
               <button
                 class="operators"
-                name="÷"
+                data-testid="÷"
                 type="button"
               >
                 ÷
               </button>
               <button
                 class="numbers"
-                name="7"
+                data-testid="7"
                 type="button"
               >
                 7
               </button>
               <button
                 class="numbers"
-                name="8"
+                data-testid="8"
                 type="button"
               >
                 8
               </button>
               <button
                 class="numbers"
-                name="9"
+                data-testid="9"
                 type="button"
               >
                 9
               </button>
               <button
                 class="operators"
-                name="x"
+                data-testid="x"
                 type="button"
               >
                 x
               </button>
               <button
                 class="numbers"
-                name="4"
+                data-testid="4"
                 type="button"
               >
                 4
               </button>
               <button
                 class="numbers"
-                name="5"
+                data-testid="5"
                 type="button"
               >
                 5
               </button>
               <button
                 class="numbers"
-                name="6"
+                data-testid="6"
                 type="button"
               >
                 6
               </button>
               <button
                 class="operators"
-                name="-"
+                data-testid="-"
                 type="button"
               >
                 -
               </button>
               <button
                 class="numbers"
-                name="1"
+                data-testid="1"
                 type="button"
               >
                 1
               </button>
               <button
                 class="numbers"
-                name="2"
+                data-testid="2"
                 type="button"
               >
                 2
               </button>
               <button
                 class="numbers"
-                name="3"
+                data-testid="3"
                 type="button"
               >
                 3
               </button>
               <button
                 class="operators"
-                name="+"
+                data-testid="+"
                 type="button"
               >
                 +
               </button>
               <button
                 class="numbers span-zero"
-                name="0"
+                data-testid="0"
                 type="button"
               >
                 0
               </button>
               <button
                 class="numbers"
-                name="."
+                data-testid="."
                 type="button"
               >
                 .
               </button>
               <button
                 class="operators"
-                name="="
+                data-testid="="
                 type="button"
               >
                 =
