@@ -75,7 +75,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Math-magicians](https://math-magicians-oh94.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
