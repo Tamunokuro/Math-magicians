@@ -31,6 +31,9 @@
 
 
 ## 🛠 Built With <a name="built-with"></a>
+- React
+- Bootstrap
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
