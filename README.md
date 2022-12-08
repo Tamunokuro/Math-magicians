@@ -78,7 +78,7 @@
 
 > Add a link to your deployed project.
 
-- [Math magicians](https://math-magicians-oh94.onrender.com/)
+- [Math-magicians](https://math-magicians-oh94.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
