@@ -7,7 +7,7 @@ import Quotes from './Quotes';
 const Navbar = () => (
   <div className="header">
     <div className="nav">
-      <a className="nav-logo" href={<Home />}>Math Magicians</a>
+      <Link to="/" className="nav-logo">Math Magician</Link>
       <ul className="navbar">
         <li className="nav-items"><Link to="/">Home</Link></li>
         <li className="nav-items"><Link to="/calculator">Calculator</Link></li>
